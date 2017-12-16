@@ -60,6 +60,3 @@ foreach ($line in (Get-Content $conffile)) {
     }
 }
 
-
-
-

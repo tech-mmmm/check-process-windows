@@ -1,1 +1,1 @@
-# check_process_win
+check-process-win

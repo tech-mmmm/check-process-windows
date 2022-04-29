@@ -5,7 +5,7 @@
 #                事前にAdmin権限で以下コマンドをを実行すること。
 #                New-EventLog -LogName Application -Source "Process Check Script"
 # Description  : Windowsプロセスチェックスクリプト
-# Create       : 2017/12/16 Tetsu Okamoto (https://tech-mmmm.blogspot.jp/)
+# Create       : 2017/12/16 tech-mmmm (https://tech-mmmm.blogspot.com/)
 # Modify       : 
 ################
 
